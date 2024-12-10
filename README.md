@@ -1,4 +1,4 @@
-## Hi, I'm Viv ヾ(•ω•`)o
+## Hi, I'm viv ヾ(•ω•`)o
 
 - **Studying:** CompSci (SE)
 - **Interests:** SoftwareDev, GameDev, AI/ML
